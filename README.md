@@ -54,7 +54,6 @@ This analysis reveals that **brand identity is the most influential factor** in 
 - Target promotional efforts by brand segment (e.g., discount high-priced brands to boost volume).
 - Monitor pricing benchmarks to avoid underpricing or overpricing compared to competitors.
 
-For deeper insights, regression models or clustering techniques could be implemented in future analysis.
 
 
 
